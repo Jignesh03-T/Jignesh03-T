@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jignesh Thacker</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Python and Web Full Stack Developer (AI/ML Basics)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jignesh03-t&label=Profile%20views&color=0e75b6&style=flat" alt="jignesh03-t" /> </p>
 
