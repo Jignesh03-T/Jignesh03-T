@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jignesh03-t&label=Profile%20views&color=0e75b6&style=flat" alt="jignesh03-t" /> </p>
 
-- 🔭 I’m currently working on **AI Chat Box with Search Engine**
+- 🔭 I’m currently working on **AI Job Hiring Agent**
 
-- 👯 I’m looking to collaborate on **Hostel Website with Management System**
+- 👯 I’m looking to Idea's on **Chat Box Prompt**
 
-- 🤝 I’m looking for help with **Measuring the Pulse of Prosperity: An Index of Economic Freedom Analysis**
+- 🤝 I’m looking for help with **Resume Parser System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
